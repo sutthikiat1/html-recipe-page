@@ -10,9 +10,9 @@
 
 # User story:
 
-> User story: I can see a recipe with ingredients and instructions
-> User story: I can select a checkbox if I have the ingredients
-> User story: I can see number of servings, baking times
+> User story: I can see a recipe with ingredients and instructions <br/>
+> User story: I can select a checkbox if I have the ingredients <br/>
+> User story: I can see number of servings, baking times <br/>
 
 ## Design : https://www.figma.com/file/2jVBTSKeCYF0dIN6fi0stX
 
